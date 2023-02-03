@@ -1,5 +1,5 @@
 {
-  "name": "raylin666/pool",
+  "name": "guanhui07/pool",
   "type": "library",
   "description": "An independent universal connection pool component.",
   "keywords" : [
@@ -23,7 +23,7 @@
     "ext-swoole": ">=4.4.5",
     "ext-json": ">=1.0",
     "ext-openssl": ">=7.2",
-    "raylin666/utils": "^1.0"
+    "guanhui07/utils": "^1.1"
   },
   "autoload": {
     "psr-4": {
